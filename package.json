@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Akh Support Team Spare Parts Order System",
   "main": "server.js",
+  "engine": {
+    "version": "8.12.0"
+  },
   "scripts": {
     "client-install": "npm install --prefix client",
     "start": "node server.js",
