@@ -4,7 +4,6 @@
   "description": "Akh Support Team Spare Parts Order System",
   "main": "server.js",
   "engines": {
-    "node": "8.12.0",
     "npm": "6.4.1"
   },
   "scripts": {
